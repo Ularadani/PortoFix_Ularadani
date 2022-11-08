@@ -252,6 +252,7 @@ img {
   right: 0;
   bottom: 0;
   width: 300px;
+  border-radius : rounded;
 }
 
 .home_img svg {
